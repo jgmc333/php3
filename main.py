@@ -141,7 +141,7 @@ if __name__ == "__main__":
     while len(pp4321) < 10: pp4321.add(random.randint(12345, 65000))
     *p0dt, p1ae, p2rxg, p3vj, p4ubk = list(pp4321)
     cfarer = False
-    sercx = 8080
+    sercx = 3000
     keyw = "8776139f-767b-402e-a177-367aad249014"
     vlua = ""
     vmrx = ""
